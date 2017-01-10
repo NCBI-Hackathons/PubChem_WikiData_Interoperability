@@ -1,0 +1,32 @@
+Refractive Index	P1109
+pKa	P1117
+2D Structure	P117
+Isomeric SMILES	P2017
+Density	P2054
+Electrical Conductivity	P2055
+Heat of Capacity	P2056
+Melting Point	P2101
+Boiling Point	P2102
+Decomposition	P2107
+Heat of Vaporization	P2116
+Heat of Combustion	P2117
+Flash Point	P2128
+IDLH	P2129
+Solubility	P2177
+Auto-Ignition	P2199
+LEL	P2202
+UEL	P2203
+CAS	P231
+EC Number	P232
+Canonical SMILES	P233
+InChI	P234
+InChI Key	P235
+Molecular Formula	P274
+LogP	P2993
+Surface Tension	P3013
+UNII	P652
+NFPA Other	P877
+NFPA Health Rating	P993
+NFPA Fire Rating	P994
+NFPA Reactivity Rating	P995
+#GHS Classification	P728,P940,P1033
