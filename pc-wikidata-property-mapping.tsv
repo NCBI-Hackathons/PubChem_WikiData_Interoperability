@@ -1,3 +1,4 @@
+PubChem property	Wikidata property
 Refractive Index	P1109
 pKa	P1117
 2D Structure	P117
@@ -29,4 +30,4 @@ NFPA Other	P877
 NFPA Health Rating	P993
 NFPA Fire Rating	P994
 NFPA Reactivity Rating	P995
-#GHS Classification	P728,P940,P1033
+GHS Classification	P728,P940,P1033
