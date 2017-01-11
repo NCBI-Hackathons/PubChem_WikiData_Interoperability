@@ -5,7 +5,7 @@
 #
 # Process
 #  Batch 100 cmids into a single http request to obtain json document
-#  Traverse document and print out cmid,pmid pairs
+#  Traverse json document and print out cmid,pmid pairs
  
 import httplib
 import time
