@@ -1,7 +1,7 @@
 # getPMIDs_only.py
 # Author: Peter MacHarrie (Peter.MacHarrie@noaa.gov)
 # Input: file containing list of pubchem Ids (cmid)
-# Output: For each pubChem document of the cmids, the list of referenced pubMedIds
+# Output: For each pubChem document of the cmids, list of referenced pubMedIds
 #
 # Process:
 #   pubchem TXT output url hardcoded
