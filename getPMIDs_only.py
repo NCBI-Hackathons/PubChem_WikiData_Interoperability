@@ -1,11 +1,11 @@
 # getPMIDs_only.py
 # Author: Peter MacHarrie (Peter.MacHarrie@noaa.gov)
-# Input: file containing list of pubchem Ids (cmid)
-# Output: For each pubChem document of the cmids, list of referenced pubMedIds
+# Input: file containing list of pubchem Ids (cid)
+# Output: For each pubChem document of the cids, list of referenced pubMedIds
 #
 # Process:
 #   pubchem TXT output url hardcoded
-#   Want to go easy on the pubchem server so batch requests into groups of 100 cmids
+#   Want to go easy on the pubchem server so batch requests into groups of 100 cids
 #   print the list pubMedIds returned
 #
 # run the output of this program through " sort -un " to get the unique list of pubMedIds
@@ -14,7 +14,7 @@ import httplib
 import time
 import json
 
-# Request PubMedId in text format for a list of comma separated cmids
+# Request PubMedId in text format for a list of comma separated cids
 
 def getcidPubId (x):
 
@@ -29,7 +29,7 @@ def getcidPubId (x):
     return data1
 
 
-# Get the list cmids
+# Get the list cids
 
 f = open('pccompound_result.txt')
 
