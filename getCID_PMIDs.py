@@ -1,4 +1,4 @@
-# getCMID_PMIDs.py
+# getCID_PMIDs.py
 # Author: Peter MacHarrie
 # Input: file containing list of Chemical Ids (aka cmid, CID)
 # Ouput: pairs of comma seperated cmid, pubMedIds
