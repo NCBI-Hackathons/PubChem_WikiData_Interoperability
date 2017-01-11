@@ -3,7 +3,7 @@
 # Date:   Jan. 10, 2017
 # Inputs
 #		PubChem attribute to wikidata attribute map  (file: ./pc-wikidata-property-mapping.txt)
-#		PubChem cmid List (stdin)
+#		PubChem cid List (stdin)
 #	Outputs
 #   Wikidata formatted tsv output (stdout)
 #
